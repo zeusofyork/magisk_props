@@ -1,0 +1,7 @@
+id=MagiskHidePropsConf
+name=MagiskHide Props Config
+version=zeus v1.1-debug-fp-flat3
+versionCode=79
+settingsVersion=40
+author=Didgeridoohan & Zeusofyork
+description=DEBUG BUILD (flat3) with Target Apps menu, BusyBox universal, resetprop wrapper, ui_print debug, and Pixel 8/9 Pro fingerprints.

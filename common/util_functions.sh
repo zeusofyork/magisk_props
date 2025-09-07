@@ -145,7 +145,7 @@ if [ "$INSTFN" ]; then
 else
 	# Placeholder variables
 	MODVERSIONPH=VER_PLACEHOLDER
-	BINPH=BIN_PLACEHOLDER
+	BIN=bin
 
 	# Log variables
 	LASTLOGFILE=$MHPCPATH/propsconf_last.log
@@ -1025,7 +1025,7 @@ update_check() {
 				echo ""
 				log_print "Checking for module update."
 				MODPROPTMP=$MHPCPATH/module.prop
-				MODPROPWWW="https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop"
+				MODPROPWWW="https://raw.githubusercontent.com/zeusofyork/magisk_props/master/module.prop"
 				module_v_ctrl
 				wget -T 5 -q -O $MODPROPTMP $MODPROPWWW >> $LOGFILE 2>&1
 				MODVERTMP="$(echo $(get_file_value $MODPROPTMP "version=") | sed 's|-.*||' | sed 's|v||' | sed 's|\.||g')"

@@ -174,8 +174,8 @@ fi
 # Fingerprint variables
 PRINTSLOC=$MODPATH/common/prints.sh
 PRINTSTMP=$MHPCPATH/prints.sh
-PRINTSWWW="https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHide-Props-Config/master/common/prints.sh"
-PRINTSDEV="https://raw.githubusercontent.com/Didgeridoohan/Playground/master/prints.sh"
+PRINTSWWW="https://raw.githubusercontent.com/zeusofyork/magisk_props/master/common/prints.sh"
+PRINTSDEV="https://raw.githubusercontent.com/zeusofyork/magisk_props/master/common/prints.sh"
 PRINTFILES=$MODPATH/printfiles
 CSTMPRINTS=/data/media/0/printslist
 CSTMFILE=$PRINTFILES/Custom.sh

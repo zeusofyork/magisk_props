@@ -66,6 +66,8 @@ Google Pixel 5 (11 & 12):Google:Pixel 5=google/redfin/redfin:11/RQ3A.211001.001/
 Google Pixel 5a (11 & 12):Google:Pixel 5a=google/barbet/barbet:11/RD2A.211001.002/7644766:user/release-keys__2021-10-01;google/barbet/barbet:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 Google Pixel 6 (12):Google:Pixel 6=google/oriole/oriole:12/SD1A.210817.015.A4/7697517:user/release-keys__2021-10-05
 Google Pixel 6 Pro (12):Google:Pixel 6 Pro=google/raven/raven:12/SD1A.210817.015.A4/7697517:user/release-keys__2021-10-05
+Google Pixel 8 Pro (15):Google:Pixel 8 Pro=google/husky_beta/husky:16/BP31.250610.009/13905196:user/release-keys__2025-07-05
+Google Pixel 9 Pro (15):Google:Pixel 9 Pro=google/comet_beta/comet:16/BP31.250610.009/13905196:user/release-keys__2025-07-05
 Google Pixel C (6.0.1 & 7.0 & 7.1.1 & 7.1.2 & 8.0.0 & 8.1.0):Google:Pixel C=google/ryu/dragon:6.0.1/MXC89L/3084571:user/release-keys;google/ryu/dragon:7.0/NRD91N/3318108:user/release-keys;google/ryu/dragon:7.1.1/N4F26T/3687331:user/release-keys;google/ryu/dragon:7.1.2/N2G48C/4104010:user/release-keys;google/ryu/dragon:8.0.0/OPR1.170623.032/4397478:user/release-keys;google/ryu/dragon:8.1.0/OPM8.190605.005/5749003:user/release-keys__2019-06-05
 HTC 10 (6.0.1):HTC:HTC 10=htc/HTCOneM10vzw/htc_pmewl:6.0.1/MMB29M/774095.8:user/release-keys
 HTC U11 (8.0.0):HTC:HTC U-3w=htc/ocndtwl_01405/htc_ocndtwl:8.0.0/OPR6.170623.013/1017190.2:user/release-keys
@@ -511,12 +513,3 @@ ZTE Blade (6.0.1):ZTE:Blade A310=ZTE/P809A50_MY_MAX/P809A50:6.0.1/MMB29M/2016101
 ZTE Nubia Z17 (7.1.1):ZTE:NX563J=nubia/NX563J/NX563J:7.1.1/NMF26X/eng.nubia.20171019.101529:user/release-keys
 Zuk Z2 Pro (7.0):Zuk:ZUK Z2121=ZUK/z2_row/z2_row:7.0/NRD90M/2.5.435_170525:user/release-keys
 "
-
-
-# Pixel 8 Pro (Android 15)
-PRINTSV2["Pixel 8 Pro"]="google/husky_beta/husky:16/BP31.250610.009/13905196:user/release-keys"
-PRINTSSEC["Pixel 8 Pro"]="2025-07-05"
-
-# Pixel 9 Pro (Android 15)
-PRINTSV2["Pixel 9 Pro"]="google/komodo_beta/komodo:16/BP31.250610.009/13905196:user/release-keys"
-PRINTSSEC["Pixel 9 Pro"]="2025-07-05"
